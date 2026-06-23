@@ -52,8 +52,7 @@ Team Responsibilities
 
 Throughout the website development, each team member assumed specific tasks, maintaining clear organization and a collaborative workflow. Responsibilities were distributed as follows:
 
-* Sheyla Barbachan: Developed the History page. She also implemented interactions such as the "See More" button and the show/hide content functions.
-* Yanedi Abreu: Was in charge of the layout of the homepage and integration of all the site's pages. She implemented the JavaScript functions related to smooth scrolling and the interactive game, with the support of the team.
-* Ezequiel Abraham: Initial page layout, partial integrations, and documentation review. QA Tester: Functionality and usability testing.
-* Nahuel Deschutter: Designed and programmed the top menu and footer. He also collaborated on the creation of the main banner for the homepage.
-* Mehdi Ghanami: Developed the Documentation page and was responsible for the homepage video. He also handled the integration of the documentation.
+* Sheyla Barbachan
+* Ezequiel Abraham
+* Nahuel Deschutter
+* Mehdi Ghanami
